@@ -1,0 +1,11 @@
+targets:
+  $default:
+    builders:
+      auto_route_generator:auto_route_generator: # for @RoutePage
+        generate_for:
+          - lib/**/**_screen.dart
+          - lib/**/**_page.dart
+      auto_route_generator:auto_router_generator: # for @AutoRouterConfig
+        generate_for:
+          - lib/app/router/app_router.dart
+      
