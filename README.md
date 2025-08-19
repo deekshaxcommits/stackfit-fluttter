@@ -33,7 +33,7 @@ Track your workouts, crush your goals, and build consistency — one rep at a ti
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/coffee-n-commits/stack-fit-flutter.git
+git clone https://github.com/deekshaxcommits/stackfit-flutter.git
 cd stack-fit-flutter
 
 ```
@@ -50,10 +50,10 @@ cd stack-fit-flutter
 ## 🤍 Author
 
 Made with commits, caffeine & no sleep ☕  
-[@coffeeandcommits](https://x.com/coffee_ncommits)
+[@coffeeandcommits](https://x.com/deekshaxcommits)
 
 ---
 
 ## 📄 License
 
-MIT © [coffeeandcommits](https://github.com/coffee-n-commits)
+MIT © [coffeeandcommits](https://github.com/deekshaxcommits)
