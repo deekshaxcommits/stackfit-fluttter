@@ -52,7 +52,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
         curve: Curves.easeInOut,
       );
     } else {
-      context.router.replace(DashboardRoute());
+      context.router.replace(LoginRoute());
     }
   }
 
@@ -63,7 +63,6 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
       body: SafeArea(
         child: Stack(
           children: [
-            // PageView with content
             PageView.builder(
               controller: _pageController,
               itemCount: _onboardingData.length,
