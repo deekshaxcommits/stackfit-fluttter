@@ -29,8 +29,6 @@ Track your workouts, crush your goals, and build consistency — one rep at a ti
 
 ---
 
----
-
 ## 📸 App Preview
 
 Here’s a sneak peek at the **onboarding flow** 👇
