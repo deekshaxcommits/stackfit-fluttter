@@ -29,6 +29,20 @@ Track your workouts, crush your goals, and build consistency — one rep at a ti
 
 ---
 
+---
+
+## 🖼️ App Preview
+
+Here’s a sneak peek at the **onboarding flow** 👇
+
+<p align="center">
+  <img src="screenshots/1.png" width="250" alt="Onboarding Screen 1" />
+  <img src="screenshots/2.png" width="250" alt="Onboarding Screen 2" />
+  <img src="screenshots/3.png" width="250" alt="Onboarding Screen 3" />
+</p>
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
