@@ -1,4 +1,4 @@
-package com.example.frontend
+package com.coffeeandcommits.stackfit
 
 import io.flutter.embedding.android.FlutterActivity
 

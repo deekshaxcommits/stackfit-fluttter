@@ -29,11 +29,23 @@ Track your workouts, crush your goals, and build consistency — one rep at a ti
 
 ---
 
+## 📸 App Preview
+
+Here’s a sneak peek at the **onboarding flow** 👇
+
+<p align="center">
+  <img src="screenshots/1.png" width="250" alt="Onboarding Screen 1" style="margin: 0 10px;" />
+  <img src="screenshots/2.png" width="250" alt="Onboarding Screen 2" style="margin: 0 10px;" />
+  <img src="screenshots/3.png" width="250" alt="Onboarding Screen 3" style="margin: 0 10px;" />
+</p>
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/coffee-n-commits/stack-fit-flutter.git
+git clone https://github.com/deekshaxcommits/stackfit-flutter.git
 cd stack-fit-flutter
 
 ```
@@ -50,10 +62,10 @@ cd stack-fit-flutter
 ## 🤍 Author
 
 Made with commits, caffeine & no sleep ☕  
-[@coffeeandcommits](https://x.com/coffee_ncommits)
+[@coffeeandcommits](https://x.com/deekshaxcommits)
 
 ---
 
 ## 📄 License
 
-MIT © [coffeeandcommits](https://github.com/coffee-n-commits)
+MIT © [coffeeandcommits](https://github.com/deekshaxcommits)
