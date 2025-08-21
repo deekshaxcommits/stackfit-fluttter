@@ -22,7 +22,7 @@ Track your workouts, crush your goals, and build consistency — one rep at a ti
 - 🔐 User authentication (JWT-based)
 - 📅 Daily workout logging
 - 📈 Streak & history tracking
-- 🤖 Smart workout suggestions (premium)
+- 🤖 Smart workout suggestions (premium feature)
 - 📷 Media uploads (progress tracking)
 - 💤 Custom gym off-days
 - 💎 Subscription-based premium features (via in-app purchases)
