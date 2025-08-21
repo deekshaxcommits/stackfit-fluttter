@@ -1,4 +1,4 @@
-# 📱 StackFit — Flutterr
+# 📱 StackFit — Flutter
 
 Welcome to the Flutter frontend for **StackFit**, your all-in-one smart gym tracker.  
 Track your workouts, crush your goals, and build consistency — one rep at a time.
